@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+body {
+  background-color: #fefce8; /* Tailwind yellow-50/warm */
+  color: #1e293b;
+}
+
+::selection {
+  background-color: #f59e0b;
+  color: #000000;
+}

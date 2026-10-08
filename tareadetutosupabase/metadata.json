@@ -1,0 +1,6 @@
+{
+  "name": "Lo que aprendí del video - Trabajo Práctico",
+  "description": "Página web de entrega para el trabajo práctico escolar/universitario: Lo que aprendí del video, con cuestionario resuelto de 12 preguntas, conceptos clave, aplicación práctica y exportador de código HTML5 limpio para GitHub Pages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
